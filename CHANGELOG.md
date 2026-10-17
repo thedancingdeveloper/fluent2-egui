@@ -5,6 +5,7 @@ All notable changes are recorded here, following [Keep a Changelog](https://keep
 ## [Unreleased]
 
 ### Added
+- Window resize edges for undecorated windows: `office::window_edges::window_resize_edges` (WI-1560).
 - Tooltip (`Response::fluent_tooltip`) and Popover surfaces (WI-1551).
 - TabList and Card surfaces (WI-1554).
 - Dropdown and Combobox controls (WI-1549).
