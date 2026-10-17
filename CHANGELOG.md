@@ -5,6 +5,7 @@ All notable changes are recorded here, following [Keep a Changelog](https://keep
 ## [Unreleased]
 
 ### Added
+- Office `TitleBar` for undecorated windows: caption buttons, drag, double-click maximise and slots. `Theme::chrome` holds the chrome sizes (`ChromeMetrics`). Gallery example `chrome` (WI-1559).
 - Caption glyphs in the `fluent2-icons` catalogue: Subtract (minimise), Maximize and Square Multiple (restore) (WI-1559).
 - Tooltip (`Response::fluent_tooltip`) and Popover surfaces (WI-1551).
 - TabList and Card surfaces (WI-1554).
