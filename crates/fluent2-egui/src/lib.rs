@@ -9,6 +9,7 @@ pub use fluent2_tokens as tokens;
 
 pub mod controls;
 pub mod foundation;
+pub mod surfaces;
 pub mod theme;
 
 pub use controls::{

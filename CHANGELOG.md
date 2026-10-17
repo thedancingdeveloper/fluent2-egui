@@ -5,6 +5,7 @@ All notable changes are recorded here, following [Keep a Changelog](https://keep
 ## [Unreleased]
 
 ### Added
+- `MessageBar` (Info, Success, Warning and Error, with title, actions and dismiss) and the `Toaster` toast host (WI-1553).
 - Display controls: `Link`, `Badge`, `Divider`, `Field`, `ProgressBar` and `Spinner` (WI-1550).
 - Checkbox, RadioGroup and Switch controls (WI-1546).
 - Input, SearchBox and Textarea: Fluent frame around egui `TextEdit` (WI-1547).
