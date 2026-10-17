@@ -5,6 +5,7 @@ All notable changes are recorded here, following [Keep a Changelog](https://keep
 ## [Unreleased]
 
 ### Added
+- Caption glyphs in the `fluent2-icons` catalogue: Subtract (minimise), Maximize and Square Multiple (restore) (WI-1559).
 - Tooltip (`Response::fluent_tooltip`) and Popover surfaces (WI-1551).
 - TabList and Card surfaces (WI-1554).
 - Dropdown and Combobox controls (WI-1549).
